@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Christian Nkobo Michael</h1> Passionate Mobile Developer | Code Enthusiast | Problem Solver
 <hr>
-<h6>Welcome to my GitHub space! I'm a dedicated software engineer with a focus on mobile development. My expertise lies in crafting seamless and user-friendly experiences for iOS and Android platforms. Whether it's building robust applications, optimizing performance, or diving into the latest mobile technologies, I thrive on turning ideas into elegant, functional code.</h6>
+<h6>I am a dedicated software engineer with a focus on mobile development. My expertise lies in crafting seamless and user-friendly experiences for iOS and Android platforms. Whether it's building robust applications, optimizing performance, or diving into the latest mobile technologies, I thrive on turning ideas into elegant, functional code.</h6>
 
 <h3>🚀 What I Do</h3>
 <h6>Mobile Development: Proficient in Dart, I bring ideas to life on both iOS and Android platforms.</h6>
@@ -13,8 +13,6 @@
 <h6>Version Control: Git </h6>
 <h6>Continuous Integration: GitHub Actions </h6>
 
-<h3>🌐 Connect with Me</h3>
-<h6>Let's collaborate, learn, and grow together! Feel free to explore my repositories and connect with me on LinkedIn or Twitter. I'm always open to exciting projects and opportunities.</h6>
 
 <h6>- 🔭 I’m currently working on My profile page </h6>
 <h6>- 🌱 I’m currently learning Flutter</h6>
@@ -43,4 +41,23 @@
 
 <img src = "https://camo.githubusercontent.com/d8cc2ef50c4620346500f4ecf8fe7877442404e9474934c149e09a02ad78fd6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f696425323053747564696f2d3035313232413f7374796c653d666c6174266c6f676f3d616e64726f69642d73747564696f" alt = "Android Studio" />
 
-</div>
+</div> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmnkobo&show_icons=true&locale=en&layout=compact" alt="cmnkobo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmnkobo&show_icons=true&locale=en" alt="cmnkobo" /></p> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmnkobo&label=Profile%20views&color=0e75b6&style=flat" alt="cmnkobo" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmnkobo" alt="cmnkobo" /></a> </p>
+
+<h3>🌐 Connect with Me</h3>
+<h6>Let's collaborate, learn, and grow together! Feel free to explore my repositories and connect with me on the profiles below. I'm always open to exciting projects and opportunities.</h6> 
+<p align="left">
+<a href="https://twitter.com/providencechris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="providencechris" height="20" width="40" /></a>
+<a href="https://linkedin.com/in/cmnkobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cmnkobo" height="20" width="40" /></a>
+<a href="https://stackoverflow.com/users/9781265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9781265" height="20" width="40" /></a>
+<a href="https://fb.com/cmnkobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cmnkobo" height="20" width="40" /></a>
+</p> 
+
+
+
+
