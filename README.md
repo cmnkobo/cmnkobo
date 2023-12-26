@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Christian Nkobo Michael</h1> Passionate Mobile Developer | Code Enthusiast | Problem Solver
 <hr>
-<h6>I am a dedicated software engineer with a focus on mobile development. My expertise lies in crafting seamless and user-friendly experiences for iOS and Android platforms. Whether it's building robust applications, optimizing performance, or diving into the latest mobile technologies, I thrive on turning ideas into elegant, functional code.</h6>
+<h6>I am a dedicated hardware and software engineer with a focus on mobile development. My expertise lies in installation, troubleshooting, solving complex hardware issues and in crafting seamless and user-friendly experiences for iOS and Android platforms. Whether it's building robust applications, optimizing performance, or diving into the latest mobile technologies, I thrive on turning ideas into elegant, functional code.</h6>
 
 <h3>🚀 What I Do</h3>
 <h6>Mobile Development: Proficient in Dart, I bring ideas to life on both iOS and Android platforms.</h6>
