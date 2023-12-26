@@ -43,13 +43,22 @@
 
 </div> 
 
-<div align = "left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmnkobo&show_icons=true&locale=en&layout=compact" alt="cmnkobo" /></p>
+
+<h3> Github Stats</h3> 
+
+<div align = "center">
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cmnkobo&" alt="cmnkobo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmnkobo&show_icons=true&locale=en" alt="cmnkobo" /></p> 
+</div> 
+
+<div align = "center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmnkobo&show_icons=true&locale=en&layout=compact" alt="cmnkobo" /></p>
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmnkobo&label=Profile%20views&color=0e75b6&style=flat" alt="cmnkobo" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmnkobo" alt="cmnkobo" /></a> </p>
+
 
 <h3>🌐 Connect with Me</h3>
 <h6>Let's collaborate, learn, and grow together! Feel free to explore my repositories and connect with me on the profiles below. I'm always open to exciting projects and opportunities.</h6> 
